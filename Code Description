@@ -1,0 +1,16 @@
+Hello guys. Welcome to day two of my Python-Arduino project series where I share with you, some projects i have been working on. 
+Yesterday's project was a simple IoT system with and ESP8266 and a DHT temperature-humidity sensor to monitor the temperature and humidity in my room remotely. 
+That was Arduino based. Today's project is completely 100% Python.
+
+This project is a special one where I simulate the planetary motions using a special python library called pygame, which is widely used for 2 Dimensional game development as well as simulations.
+
+The exciting and interesting thing about this project is that, real world astronomical values were used so the calculated velocities of the moving planets are exactly as seen in real life 
+just that I used a scale factor to confine it within a 900 by 900 pixel size square.
+
+Also, you can notice from the video feed that only the first four planets are used. Yes, this is because all 8 planets wouldn't have fit on my screen. But the code works either ways.
+
+Also, as far as Newton's law of Universal Gravitation is concerned, planets closer to the sun have a higher velocity as compared to those further away which is also depicted in the simulation.
+Also, lines are drawn to show the individual orbits of the planets and the distances covered are displayed on top of each planet.
+
+I really hope you guys like this project and please do ask questions if any and please give me a thumbs up if you found it interesting. 
+Thank you for reading and see you tomorrow for our next project.
